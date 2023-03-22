@@ -52,5 +52,7 @@
   "spellcheck": true,
   "spellcheckDictionary": [
     "categorise"
-  ]
+  ],
+  "useTab": false,
+  "tabSize": 2
 }

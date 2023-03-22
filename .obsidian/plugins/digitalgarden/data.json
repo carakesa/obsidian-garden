@@ -1,8 +1,8 @@
 {
-  "githubRepo": "digitalgarden",
-  "githubToken": "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",
-  "githubUserName": "tanepiper",
-  "gardenBaseUrl": "digitalgarden.tane.codes",
+  "githubRepo": "obsidian-garden",
+  "githubToken": "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",
+  "githubUserName": "carakesa",
+  "gardenBaseUrl": "",
   "prHistory": [],
   "theme": "{\"name\":\"Agora\",\"author\":\"Seraaron\",\"repo\":\"Seraaron/agora-obsidian-theme\",\"screenshot\":\"agora-theme-preview.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/Seraaron/agora-obsidian-theme/HEAD/theme.css\"}",
   "baseTheme": "light",
