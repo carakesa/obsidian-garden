@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -42,7 +43,7 @@
             }
           },
           {
-            "id": "10be11e183a9ffed",
+            "id": "8d91422b58f3e98f",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md"
               }
             }
           },
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,27 +213,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "obsidian-journey-plugin:Find Journey": false,
       "templater-obsidian:Templater": false,
       "vantage-obsidian:Vantage - Advanced search builder": false,
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "periodic-notes:Open today": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "828e17397f6a51f2",
   "lastOpenFiles": [
-    "👩‍🌾 Your Knowledge Garden.md",
+    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
+    "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
+    "👩‍🌾 Gardening Tips/💎 Obsidian/🗂 Obsidian File Struture.md",
+    "👩‍🌾 Gardening Tips/💎 Obsidian/🔌 Plugins & 🌈 Theme.md",
+    "👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🏷 Using Tags.md",
+    "👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🏭  Project Stucture.md",
+    "👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🎯  Create Custom Dashboards.md",
+    "👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🌱 Planting Seeds.md",
+    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden",
     "📇 Terms/🪨 Obsidian/Link.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds.md",
+    "📇 Terms/🪨 Obsidian",
+    "👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/⚠️ Statuses.md",
     "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
-    "👩‍🌾 Gardening Tips/🪨 Obsidian/🗂 Obsidian File Struture.md",
-    "👨‍👧‍👦 People.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏭  Project Stucture.md",
-    "⏰ ToDo Lists.md",
-    "⏣ Templates/🪛 Todo List.md",
-    "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards.md"
+    "👨‍👧‍👦 People/👤 Alexis Rondeau.md",
+    "🌱 Seed Box/🧠 Create My First Idea.md",
+    "⏰ Todo Lists/Obsidian Garden Todo.md",
+    "⏣ Templates/🗓 Daily Note.md",
+    "⏣ Templates/🗒 Basic Note.md",
+    "⏣ Templates/🔬 New Research.md",
+    "⏣ Templates/🔗 New Link.md",
+    "⏣ Templates/🔖 New Term.md",
+    "⏣ Templates/📝 Todo List.md",
+    "⏣ Templates/📙 New Reading Item.md",
+    "⏣ Templates/👤 New Person.md",
+    "🗂 Projects/My New Garden/🌽 My New Garden.md",
+    "⏣ Templates/📰 New Dashboard.md",
+    "⏣ Templates/▶️ Basic Kanban.md"
   ]
 }

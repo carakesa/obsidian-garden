@@ -1,11 +1,10 @@
 {
   "commitMessage": "obsidian-garden @ {{date}}",
-  "autoCommitMessage": "obsidian-garden @ {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": true,
@@ -22,5 +21,10 @@
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
-  "showBranchStatusBar": true
+  "showBranchStatusBar": true,
+  "setLastSaveToLastCommit": false,
+  "submoduleRecurseCheckout": false,
+  "gitDir": "",
+  "showFileMenu": true,
+  "autoCommitMessage": "obsidian-garden @ {{date}}"
 }

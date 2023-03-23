@@ -1,1 +1,6 @@
-{"new-note-template":"⏣ Templates/Basic Kanban.md"}
+{
+  "new-note-template": "⏣ Templates/Basic Kanban.md",
+  "time-format": "h:mm a",
+  "date-format": "dddd MMMM DD, YYYY",
+  "date-display-format": "DDMMMYY"
+}

@@ -1,1 +1,4 @@
-{"showExistingOnly":false}
+{
+  "showExistingOnly": false,
+  "showAttachments": true
+}
