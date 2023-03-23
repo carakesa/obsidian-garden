@@ -215,15 +215,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-journey-plugin:Find Journey": false,
-      "templater-obsidian:Templater": false,
-      "vantage-obsidian:Vantage - Advanced search builder": false,
-      "periodic-notes:Open today": false,
+      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-journey-plugin:Find Journey": false
     }
   },
   "active": "828e17397f6a51f2",
