@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
+                "file": "🌱 Seed Box/🧠 Digging in the Dirt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "891a2e60e271b31f",
         "type": "tabs",
-        "dimension": 20.38735983690112,
+        "dimension": 51.171875,
         "children": [
           {
             "id": "322342a2c258bfbb",
@@ -56,7 +56,7 @@
       {
         "id": "7809a0592f8db2af",
         "type": "tabs",
-        "dimension": 79.61264016309887,
+        "dimension": 48.828125,
         "children": [
           {
             "id": "91f1dcc79c72e889",
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Facebook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
+                "file": "🌱 Seed Box/🧠 Digging in the Dirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md"
+                "file": "🌱 Seed Box/🧠 Digging in the Dirt.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
+                "file": "🌱 Seed Box/🧠 Digging in the Dirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
+                "file": "🌱 Seed Box/🧠 Digging in the Dirt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +228,19 @@
   },
   "active": "828e17397f6a51f2",
   "lastOpenFiles": [
-    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
+    "⏣ Templates/🗒 Basic Note.md",
+    "🌱 Seed Box/What to Write About.md",
+    "🗂 Projects/Old_Man_Yells_at_Cloud/Rants_and_Musings.md",
+    "🌱 Seed Box/🧠 Digging in the Dirt.md",
+    "🗂 Projects/My New Garden/How Did I Get Here?.md",
+    "🗂 Projects/My New Garden/about me.md",
+    "🗂 Projects/My New Garden/Old_Man_Yells_at_Cloud/Rants_and_Musings.md",
+    "🗂 Projects/My New Garden/Old_Man_Yells_at_Cloud",
+    "🗂 Projects/Old_Man_Yells_at_Cloud",
+    "🌱 Seed Box/🧠 Create My First Idea.md",
+    "Snippets/Good Day.md",
     "👩‍🌾 Gardening Tips/💎🌳 Obsidian Garden.md",
+    "👨‍👧‍👦 People/🧑🏻‍💻 Tane Piper.md",
     "👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🏷 Using Tags.md",
     "👩‍🌾 Gardening Tips/💎 Obsidian/🗂 Obsidian File Struture.md",
     "👩‍🌾 Gardening Tips/💎 Obsidian/🔌 Plugins & 🌈 Theme.md",
@@ -241,18 +254,9 @@
     "👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/⚠️ Statuses.md",
     "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
     "👨‍👧‍👦 People/👤 Alexis Rondeau.md",
-    "🌱 Seed Box/🧠 Create My First Idea.md",
     "⏰ Todo Lists/Obsidian Garden Todo.md",
     "⏣ Templates/🗓 Daily Note.md",
-    "⏣ Templates/🗒 Basic Note.md",
     "⏣ Templates/🔬 New Research.md",
-    "⏣ Templates/🔗 New Link.md",
-    "⏣ Templates/🔖 New Term.md",
-    "⏣ Templates/📝 Todo List.md",
-    "⏣ Templates/📙 New Reading Item.md",
-    "⏣ Templates/👤 New Person.md",
-    "🗂 Projects/My New Garden/🌽 My New Garden.md",
-    "⏣ Templates/📰 New Dashboard.md",
-    "⏣ Templates/▶️ Basic Kanban.md"
+    "⏣ Templates/🔗 New Link.md"
   ]
 }
