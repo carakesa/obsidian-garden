@@ -219,7 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-journey-plugin:Find Journey": false
+      "obsidian-journey-plugin:Find Journey": false,
+      "periodic-notes:Open today": false,
+      "vantage-obsidian:Vantage - Advanced search builder": false,
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "828e17397f6a51f2",

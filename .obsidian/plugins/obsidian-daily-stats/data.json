@@ -9,24 +9,13 @@
     "2021/5/19": 25,
     "2021/5/23": 139,
     "2022/10/14": 0,
-    "2023/2/22": 105
+    "2023/2/22": 105,
+    "2023/2/23": 0
   },
   "todaysWordCount": {
-    "🌱 Seed Box/🧠 Starting This Thing.md": {
-      "initial": 63,
-      "current": 63
-    },
-    "🌱 Seed Box/🧠 Digging in the Dirt.md": {
-      "initial": 64,
-      "current": 159
-    },
-    "⏣ Templates/🗒 Basic Note.md": {
-      "initial": 39,
-      "current": 49
-    },
-    "🌱 Seed Box/What to Write About.md": {
-      "initial": 49,
-      "current": 49
+    "🗂 Projects/My New Garden/How Did I Get Here.md": {
+      "initial": 284,
+      "current": 284
     }
   }
 }
