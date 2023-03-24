@@ -1,5 +1,5 @@
 ---
-{"aliases":"🎯 Create Custom Dashboards,dashboards","type":"dashboard","dg-publish":true,"permalink":"/gardening-tips/sowing-your-garden/create-custom-dashboards-1/","dgPassFrontmatter":true}
+{"aliases":"🎯 Create Custom Dashboards,dashboards","type":"dashboard","dg-publish":true,"dg-home":true,"permalink":"/gardening-tips/sowing-your-garden/create-custom-dashboards-1/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -10,7 +10,7 @@ Full documentation is available on the site, but to help you along here are some
 
 ### Last 5 edited files
 Using the `file` object you can query properties and use functions to do things like date comparsion:
-- [[👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🎯  Create Custom Dashboards 1\|🎯  Create Custom Dashboards 1]]: 8:39 PM - March 23, 2023
+- [[👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🎯  Create Custom Dashboards 1\|🎯  Create Custom Dashboards 1]]: 8:41 PM - March 23, 2023
 - [[⏣ Templates/📰 New Dashboard\|📰 New Dashboard]]: 8:39 PM - March 23, 2023
 - [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards\|🎯  Create Custom Dashboards]]: 8:38 PM - March 23, 2023
 - [[🗂 Projects/Old_Man_Yells_at_Cloud/Rants_and_Musings\|Rants_and_Musings]]: 6:05 PM - March 23, 2023
