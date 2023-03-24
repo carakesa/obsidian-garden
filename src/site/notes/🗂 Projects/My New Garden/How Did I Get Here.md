@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/projects/my-new-garden/how-did-i-get-here/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/projects/my-new-garden/how-did-i-get-here/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
