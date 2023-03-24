@@ -121,11 +121,11 @@ graph LR
 
 ## 5️⃣ Last 5 Files Edited
 
-| File                                                                                      | Last tended to           |
-| ----------------------------------------------------------------------------------------- | ------------------------ |
-| [[🗂 Projects/Old_Man_Yells_at_Cloud/Rants_and_Musings\|Rants_and_Musings]]            | 6:05 PM - March 23, 2023 |
-| [[🗂 Projects/My New Garden/How Did I Get Here\|How Did I Get Here]]                   | 5:32 PM - March 23, 2023 |
-| [[🗓 Daily Notes/2021-06-16\|2021-06-16]]                                              | 5:21 PM - March 23, 2023 |
-| [[🤹‍♀️ Backlog/Obsidian Quality of Life Requests\|Obsidian Quality of Life Requests]] | 5:21 PM - March 23, 2023 |
-| [[🤹‍♀️ Backlog/Shopping List\|Shopping List]]                                         | 5:21 PM - March 23, 2023 |
+| File                                                                                                             | Last tended to           |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🎯  Create Custom Dashboards 1\|🎯  Create Custom Dashboards 1]] | 8:41 PM - March 23, 2023 |
+| [[⏣ Templates/📰 New Dashboard\|📰 New Dashboard]]                                                            | 8:39 PM - March 23, 2023 |
+| [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards\|🎯  Create Custom Dashboards]]     | 8:38 PM - March 23, 2023 |
+| [[🗂 Projects/Old_Man_Yells_at_Cloud/Rants_and_Musings\|Rants_and_Musings]]                                   | 6:05 PM - March 23, 2023 |
+| [[🗂 Projects/My New Garden/How Did I Get Here\|How Did I Get Here]]                                          | 5:32 PM - March 23, 2023 |
 
