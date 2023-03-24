@@ -10,12 +10,20 @@
     "2021/5/23": 139,
     "2022/10/14": 0,
     "2023/2/22": 105,
-    "2023/2/23": 0
+    "2023/2/23": 3
   },
   "todaysWordCount": {
     "🗂 Projects/My New Garden/How Did I Get Here.md": {
       "initial": 284,
       "current": 284
+    },
+    "⏣ Templates/📰 New Dashboard.md": {
+      "initial": 59,
+      "current": 59
+    },
+    "👩‍🌾 Gardening Tips/🌾 Sowing Your Garden/🎯  Create Custom Dashboards 1.md": {
+      "initial": 238,
+      "current": 241
     }
   }
 }
